@@ -35,14 +35,11 @@ merged = merge_prevalence(
 )
 ```
 
-`merged` is a pandas `DataFrame` containing the OFH prevalence alongside the
+`merged` is a list of dictionaries containing the OFH prevalence alongside the
 prevalence of mapped UKB diseases.
 
 Run tests with:
 
 ```bash
-python -m pip install -r requirements.txt
 pytest
 ```
-
-`pandas` is required for the scripts and the tests.
