@@ -1,0 +1,797 @@
+variable,variable translated,category,count,prevalence
+p20002_i0,,essential thrombocytosis,50,9.957620367715004e-05
+p20001_i0,,kaposis sarcoma,5,9.957620367715004e-06
+p20001_i0,,retinoblastoma,5,9.957620367715004e-06
+p20001_i0,,mesothelioma,5,9.957620367715004e-06
+p20002_i0,,dermatopolymyositis,5,9.957620367715004e-06
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Macular degeneration|Other serious eye condition,5,9.957620367715004e-06
+p20002_i0,,sclerosing cholangitis,49,9.758467960360704e-05
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Toothache|Dentures,49,9.758467960360704e-05
+p20002_i0,,lung abscess,48,9.559315553006404e-05
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Cataract|Other serious eye condition,48,9.559315553006404e-05
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Loose teeth|Toothache|Dentures,48,9.559315553006404e-05
+p20001_i0,,nasal cavity cancer,47,9.360163145652104e-05
+p20002_i0,,opioid dependency,46,9.161010738297804e-05
+p22136,Doctor diagnosed fibrosing alveolitis/unspecified alveolitis Medical information  ,Yes,46,9.161010738297804e-05
+p20002_i0,,disorder of adrenal gland,45,8.961858330943505e-05
+p20002_i0,,bowen's disease,44,8.762705923589205e-05
+p20002_i0,,stevens johnson syndrome,44,8.762705923589205e-05
+p20002_i0,,typhoid fever,44,8.762705923589205e-05
+p20002_i0,,chronic laryngitis,44,8.762705923589205e-05
+p20001_i0,,spinal cord or cranial nerve cancer,43,8.563553516234904e-05
+p20002_i0,,hyperaldosteronism/conn's syndrome,43,8.563553516234904e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Emphysema/chronic bronchitis|Hayfever, allergic rhinitis or eczema",43,8.563553516234904e-05
+p20001_i0,,other haematological malignancy,42,8.364401108880604e-05
+p20001_i0,,metastatic cancer (unknown primary),42,8.364401108880604e-05
+p20001_i0,,female genital tract cancer,42,8.364401108880604e-05
+p20002_i0,,schistosomiasis/bilharzia,42,8.364401108880604e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Cataract|Macular degeneration,42,8.364401108880604e-05
+p20001_i0,,mouth cancer,41,8.165248701526303e-05
+p20002_i0,,allergy to nickel,41,8.165248701526303e-05
+p20002_i0,,cervical problem,41,8.165248701526303e-05
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Loose teeth|Toothache|Dentures,41,8.165248701526303e-05
+p20002_i0,,varicella zoster virus,4,7.966096294172004e-06
+p20002_i0,,epicondylitis,4,7.966096294172004e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Cataract|Macular degeneration|Other serious eye condition,4,7.966096294172004e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Macular degeneration,4,7.966096294172004e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Macular degeneration|Other serious eye condition,4,7.966096294172004e-06
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Cataract|Macular degeneration,4,7.966096294172004e-06
+p20002_i0,,adrenal tumour,40,7.966096294172003e-05
+p20002_i0,,retinitis pigmentosa,40,7.966096294172003e-05
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Cataract|Macular degeneration,40,7.966096294172003e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Blood clot in the lung|Emphysema/chronic bronchitis,40,7.966096294172003e-05
+p20002_i0,,pleural effusion,39,7.766943886817703e-05
+p20002_i0,,varicose ulcer,39,7.766943886817703e-05
+p20002_i0,,spinal abscess,39,7.766943886817703e-05
+p20002_i0,,mitral stenosis,39,7.766943886817703e-05
+p20001_i0,,acute myeloid leukaemia,38,7.567791479463403e-05
+p20001_i0,,vaginal cancer,38,7.567791479463403e-05
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Macular degeneration,38,7.567791479463403e-05
+p20001_i0,,penis cancer,37,7.368639072109103e-05
+p20001_i0,,other cancer of urinary tract,37,7.368639072109103e-05
+p20001_i0,,meningeal cancer / malignant meningioma,37,7.368639072109103e-05
+p20002_i0,,male infertility,36,7.169486664754803e-05
+p20002_i0,,aplastic anaemia,35,6.970334257400503e-05
+p20001_i0,,tonsil cancer,33,6.572029442691903e-05
+p20002_i0,,fracture sternum,33,6.572029442691903e-05
+p20001_i0,,gallbladder/bile duct cancer,32,6.372877035337603e-05
+p20002_i0,,other venous/lymphatic disease,31,6.173724627983303e-05
+p20002_i0,,benign insulinoma,3,5.974572220629003e-06
+p20002_i0,,hepatitis e,3,5.974572220629003e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Cataract|Macular degeneration,3,5.974572220629003e-06
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Macular degeneration,3,5.974572220629003e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Other serious eye condition,3,5.974572220629003e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Cataract|Other serious eye condition,3,5.974572220629003e-06
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the lung|Emphysema/chronic bronchitis|Asthma,30,5.974572220629003e-05
+p20002_i0,,dermatomyositis,29,5.775419813274703e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Cataract|Other serious eye condition,29,5.775419813274703e-05
+p20002_i0,,antiphospholipid syndrome,27,5.377114998566103e-05
+p20002_i0,,respiratory failure,27,5.377114998566103e-05
+p20002_i0,,polyartertis nodosa,26,5.177962591211803e-05
+p20001_i0,,gum cancer,25,4.978810183857503e-05
+p20001_i0,,ear cancer,25,4.978810183857503e-05
+p20002_i0,,dengue fever,25,4.978810183857503e-05
+p20002_i0,,phaeochromocytoma,25,4.978810183857503e-05
+p20001_i0,,adrenal cancer,24,4.7796577765032026e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision,24,4.7796577765032026e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Blood clot in the lung|Emphysema/chronic bronchitis|Asthma|Hayfever, allergic rhinitis or eczema",24,4.7796577765032026e-05
+p20001_i0,,parathyroid cancer,23,4.580505369148903e-05
+p20001_i0,,myelofibrosis or myelodysplasia,23,4.580505369148903e-05
+p20002_i0,,bile duct disease,23,4.580505369148903e-05
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Cataract|Other serious eye condition,23,4.580505369148903e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Blood clot in the lung|Emphysema/chronic bronchitis|Asthma,23,4.580505369148903e-05
+p20001_i0,,salivary gland cancer,22,4.3813529617946025e-05
+p20002_i0,,carcinoid syndrome/tumour,22,4.3813529617946025e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the lung|Emphysema/chronic bronchitis|Asthma|Hayfever, allergic rhinitis or eczema",22,4.3813529617946025e-05
+p20001_i0,,other salivary gland cancer,21,4.182200554440302e-05
+p20001_i0,,lip cancer,21,4.182200554440302e-05
+p20001_i0,,trachea cancer,2,3.983048147086002e-06
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Macular degeneration|Other serious eye condition,2,3.983048147086002e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Cataract|Macular degeneration|Other serious eye condition,2,3.983048147086002e-06
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Cataract|Macular degeneration|Other serious eye condition,2,3.983048147086002e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Injury or trauma resulting in loss of vision|Macular degeneration,2,3.983048147086002e-06
+p20001_i0,,bone metastases / bony secondaries,20,3.983048147086002e-05
+p20002_i0,,sick sinus syndrome,20,3.983048147086002e-05
+p20002_i0,,empyema,20,3.983048147086002e-05
+p20002_i0,,diabetic nephropathy,19,3.7838957397317017e-05
+p20002_i0,,iga nephropathy,19,3.7838957397317017e-05
+p20002_i0,,bowel / intestinal infarction,19,3.7838957397317017e-05
+p20002_i0,,ischaemic stroke,17,3.3855909250231016e-05
+p20002_i0,,giardia / giardiasis,17,3.3855909250231016e-05
+p20002_i0,,diabetes insipidus,17,3.3855909250231016e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Cataract|Macular degeneration,17,3.3855909250231016e-05
+p20001_i0,,oropharynx / oropharyngeal cancer,15,2.987286110314501e-05
+p20001_i0,,sinus cancer,14,2.788133702960201e-05
+p20001_i0,,appendix cancer,14,2.788133702960201e-05
+p20002_i0,,alpha-1 antitrypsin deficiency,14,2.788133702960201e-05
+p22141,Doctor diagnosed mesothelioma of the lung Medical information  ,Yes,14,2.788133702960201e-05
+p20001_i0,,peripheral nerve/autonomic nerve cancer,13,2.5889812956059013e-05
+p20002_i0,,aortic dissection,13,2.5889812956059013e-05
+p20002_i0,,aortic aneurysm rupture,13,2.5889812956059013e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the lung|Emphysema/chronic bronchitis|Hayfever, allergic rhinitis or eczema",13,2.5889812956059013e-05
+p20001_i0,,thymus cancer / malignant thymoma,12,2.3898288882516013e-05
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Cataract|Macular degeneration|Other serious eye condition,12,2.3898288882516013e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Cataract,12,2.3898288882516013e-05
+p20002_i0,,yellow fever,11,2.190676480897301e-05
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Blood clot in the lung|Emphysema/chronic bronchitis|Hayfever, allergic rhinitis or eczema",11,2.190676480897301e-05
+p20001_i0,,male genital tract cancer,1,1.991524073543001e-06
+p20001_i0,,heart / mediastinum cancer,1,1.991524073543001e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Injury or trauma resulting in loss of vision|Macular degeneration|Other serious eye condition,1,1.991524073543001e-06
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Cataract|Macular degeneration|Other serious eye condition,1,1.991524073543001e-06
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Injury or trauma resulting in loss of vision|Other serious eye condition,1,1.991524073543001e-06
+p20002_i0,,pancytopenia,10,1.991524073543001e-05
+p20002_i0,,synovitis,10,1.991524073543001e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Other serious eye condition,10,1.991524073543001e-05
+p4041_i0, Gestational diabetes only Medical conditions  ,Prefer not to answer,10,1.991524073543001e-05
+p20002_i0,,microscopic polyarteritis,9,1.7923716661887008e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Cataract|Other serious eye condition,9,1.7923716661887008e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Macular degeneration,9,1.7923716661887008e-05
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Macular degeneration|Other serious eye condition,9,1.7923716661887008e-05
+p22131, Doctor diagnosed cystic fibrosis Medical information  ,Yes,9,1.7923716661887008e-05
+p20002_i0,,pericardial effusion,8,1.5932192588344008e-05
+p22138, Doctor diagnosed silicosis Medical information  ,Yes,8,1.5932192588344008e-05
+p20001_i0,,malignant insulinoma,7,1.3940668514801009e-05
+p20002_i0,,myelofibrosis,7,1.3940668514801009e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Injury or trauma resulting in loss of vision|Cataract,7,1.3940668514801009e-05
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Cataract|Macular degeneration,7,1.3940668514801009e-05
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Injury or trauma resulting in loss of vision,7,1.3940668514801009e-05
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Other serious eye condition,7,1.3940668514801009e-05
+p20001_i0,,fallopian tube cancer,6,1.1949144441258006e-05
+p20002_i0,,chlamydia,6,1.1949144441258006e-05
+p2443_i0,Diabetes diagnosed by doctor Medical conditions  ,No,473127,0.9422438103431794
+p2453_i0,Cancer diagnosed by doctor Medical conditions  ,No,460759,0.9176126406015996
+p2473_i0,Other serious medical condition/disability diagnosed by doctor Medical conditions  ,No,391559,0.7797991747124239
+p2247_i0,Hearing difficulty/problems Hearing  ,No,355102,0.7071941815632667
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,None of the above,350661,0.6983498231526623
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",None of the above,339330,0.6757838638753465
+p2188_i0,"Long-standing illness, disability or infirmity General health  ",No,328992,0.6551954880030589
+p6149_i0,Mouth/teeth dental problems Mouth  ,None of the above,298164,0.5938007838638754
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,None of group C,172754,0.3440437498008476
+p2188_i0,"Long-standing illness, disability or infirmity General health  ",Yes,159787,0.3182196571392155
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,None of group A,139752,0.2783194723257814
+p6148_i0,Eye problems/disorders Eyesight ,None of the above,132035,0.2629508810502501
+p20002_i0,,hypertension,130914,0.2607183825638084
+p2247_i0,Hearing difficulty/problems Hearing  ,Yes,121948,0.2428623777204218
+p22138, Doctor diagnosed silicosis Medical information  ,No,121185,0.2413428448523085
+p22131, Doctor diagnosed cystic fibrosis Medical information  ,No,121184,0.241340853328235
+p22141,Doctor diagnosed mesothelioma of the lung Medical information  ,No,121179,0.2413308957078673
+p22136,Doctor diagnosed fibrosing alveolitis/unspecified alveolitis Medical information  ,No,121147,0.2412671669375139
+p22139,Doctor diagnosed asbestosis Medical information  ,No,121108,0.2411894974986457
+p22135,Doctor diagnosed idiopathic pulmonary fibrosis,No,121085,0.2411436924449543
+p22140,Doctor diagnosed lung cancer (not mesothelioma) Medical information  ,No,121037,0.2410480992894242
+p22128, Doctor diagnosed emphysema Medical information  ,No,120829,0.2406338622821272
+p22133, Doctor diagnosed sarcoidosis Medical information  ,No,120665,0.2403072523340662
+p22137,Doctor diagnosed tuberculosis Medical information  ,No,120539,0.2400563203007998
+p22134, Doctor diagnosed bronchiectasis Medical information ,No,120120,0.2392218717139853
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,High blood pressure,120103,0.239188015804735
+p22129,Doctor diagnosed chronic bronchitis Medical information  ,No,119811,0.2386064907752605
+p4803_i0,Tinnitus Hearing  ,"No, never",119494,0.2379751776439473
+p22130,Doctor diagnosed COPD (chronic obstructive pulmonary disease) Medical information  ,No,119426,0.2378397540069464
+p22127,,No,105711,0.2105260013383041
+p2473_i0,Other serious medical condition/disability diagnosed by doctor Medical conditions  ,Yes - you will be asked about this later by an interviewer,99932,0.1990169837172991
+p22126,,No,93515,0.1862373737373737
+p20126_i0,Bipolar and major depression status Mental health  i0,No Bipolar or Depression,89468,0.1781776758117452
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Hayfever, allergic rhinitis or eczema",86713,0.1726910269891342
+p6149_i0,Mouth/teeth dental problems Mouth  ,Dentures,63417,0.1262964821718765
+p20002_i0,,high cholesterol,61358,0.1221959341044514
+p20002_i0,,asthma,58217,0.1159405569894529
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Asthma,28993,0.0577402574642322
+p2443_i0,Diabetes diagnosed by doctor Medical conditions  ,Yes,26386,0.0525483542045056
+p20002_i0,,unclassifiable,25396,0.050576745371698
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Anxiety or nerves,24074,0.0479439505464742
+p20002_i0,,diabetes,21714,0.0432439537329127
+p20002_i0,,angina,16110,0.0320834528247777
+p22127,,Yes,15482,0.0308327757065927
+p20126_i0,Bipolar and major depression status Mental health  i0,Probable Recurrent major depression (moderate),14993,0.0298589204346302
+p20002_i0,,eczema/dermatitis,12504,0.0249020170155816
+p20002_i0,,hiatus hernia,11061,0.0220282477774591
+p4803_i0,Tinnitus Hearing  ,"Yes, now most or all of the time",10708,0.0213252397794984
+p20002_i0,,deep venous thrombosis (dvt),9935,0.0197857916706497
+p6149_i0,Mouth/teeth dental problems Mouth  ,Toothache,9315,0.018551046745053
+p20126_i0,Bipolar and major depression status Mental health  i0,Probable Recurrent major depression (severe),8892,0.0177086320619443
+p20002_i0,,back problem,8801,0.0175274033712519
+p4041_i0, Gestational diabetes only Medical conditions  ,No,8473,0.0168741834751298
+p20002_i0,,cholelithiasis/gall stones,8111,0.0161532517605072
+p20002_i0,,osteoporosis,7999,0.0159302010642704
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Panic attacks,7816,0.015565752158812
+p6149_i0,Mouth/teeth dental problems Mouth  ,Loose teeth,7523,0.0149822356052639
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums,7096,0.0141318548258611
+p6148_i0,Eye problems/disorders Eyesight ,Other serious eye condition,6947,0.0138351177389032
+p20002_i0,,pneumonia,6875,0.0136917280056081
+p20002_i0,,emphysema/chronic bronchitis,6810,0.0135622789408278
+p20002_i0,,anxiety/panic attacks,6689,0.0133213045279291
+p20002_i0,,stroke,6687,0.013317321479782
+p20002_i0,,enlarged prostate,6547,0.013038508109486
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT),6166,0.0122797374374661
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Angina|High blood pressure,5826,0.0116026192524615
+p20002_i0,,psoriasis,5559,0.0110708823248255
+p20002_i0,,diverticular disease/diverticulitis,5361,0.010676560558264
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma,5346,0.0106466876971608
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,None of group B,143335,0.285455103
+p20002_i0,,osteoarthritis,40548,0.080752318
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums,39990,0.079641048
+p2453_i0,Cancer diagnosed by doctor Medical conditions  ,Yes - you will be asked about this later by an interviewer,38595,0.076862872
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Depression,33984,0.067679954
+p20002_i0,,depression,28068,0.055898098
+p20002_i0,,hayfever/allergic rhinitis,28044,0.055850301
+p22126,,Yes,27678,0.055121403
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers,26772,0.053317082
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Asthma|Hayfever, allergic rhinitis or eczema",24261,0.048316366
+p20002_i0,,hypothyroidism/myxoedema,24160,0.048115222
+p20002_i0,,gastro-oesophageal reflux (gord) / gastric reflux,20895,0.041612896
+p2247_i0,Hearing difficulty/problems Hearing  ,Do not know,19749,0.039330609
+p4803_i0,Tinnitus Hearing  ,"Yes, but not now, but have in the past",18842,0.037524297
+p4803_i0,Tinnitus Hearing  ,"Yes, now some of the time",15011,0.029894768
+p20002_i0,,migraine,14315,0.028508667
+p6148_i0,Eye problems/disorders Eyesight ,Cataract,12097,0.024091467
+p20002_i0,,heart attack/myocardial infarction,11507,0.022916468
+p20002_i0,,irritable bowel syndrome,11423,0.022749179
+p2188_i0,"Long-standing illness, disability or infirmity General health  ",Do not know,11380,0.022663544
+p20001_i0,,breast cancer,11376,0.022655578
+p2473_i0,Other serious medical condition/disability diagnosed by doctor Medical conditions  ,Do not know,8964,0.017852022
+p20002_i0,,prolapsed disc/slipped disc,8150,0.016230921
+p20002_i0,,uterine fibroids,8014,0.015960074
+p20126_i0,Bipolar and major depression status Mental health  i0,Single Probable major depression episode,7918,0.015768888
+p20002_i0,,cataract,7291,0.014520202
+p20002_i0,,gout,6951,0.013843084
+p20002_i0,,rheumatoid arthritis,5645,0.011242153
+p20002_i0,,glaucoma,5308,0.01057101
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Dentures,5018,0.009993468
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Angina,4910,0.009778383
+p6148_i0,Eye problems/disorders Eyesight ,Do not know,4835,0.009629019
+p20002_i0,,sciatica,4663,0.009286477
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Generalized anxiety disorder,4626,0.00921279
+p20001_i0,,basal cell carcinoma,4422,0.008806519
+p20002_i0,,appendicitis,4256,0.008475926
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Emphysema/chronic bronchitis,4247,0.008458003
+p20002_i0,,ear/vestibular disorder,4233,0.008430121
+p20002_i0,,headaches (not migraine),4218,0.008400249
+p20002_i0,,spine arthritis/spondylitis,4201,0.008366393
+p20002_i0,,allergy or anaphylactic reaction to drug,4182,0.008328554
+p20002_i0,,pulmonary embolism +/- dvt,4114,0.00819313
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums,4108,0.008181181
+p20002_i0,,ovarian cyst or cysts,4105,0.008175206
+p4803_i0,Tinnitus Hearing  ,"Yes, now a lot of the time",4105,0.008175206
+p20002_i0,,epilepsy,4040,0.008045757
+p20002_i0,,endometriosis,4038,0.008041774
+p20002_i0,,arthritis (nos),3917,0.0078008
+p20002_i0,,muscle/soft tissue problem,3872,0.007711181
+p20002_i0,,hyperthyroidism/thyrotoxicosis,3854,0.007675334
+p20002_i0,,eye/eyelid problem,3832,0.00763152
+p4803_i0,Tinnitus Hearing  ,Do not know,3829,0.007625546
+p20002_i0,,kidney stone/ureter stone/bladder stone,3814,0.007595673
+p20001_i0,,malignant melanoma,3715,0.007398512
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Dentures,3695,0.007358681
+p20002_i0,,atrial fibrillation,3635,0.00723919
+p20002_i0,,gastric/stomach ulcers,3624,0.007217283
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack,3624,0.007217283
+p20002_i0,,bronchitis,3621,0.007211309
+p6149_i0,Mouth/teeth dental problems Mouth  ,Loose teeth|Dentures,3595,0.007159529
+p20002_i0,,muscle or soft tissue injuries,3531,0.007032072
+p20002_i0,,allergy/hypersensitivity/anaphylaxis,3508,0.006986266
+p20001_i0,,prostate cancer,3462,0.006894656
+p20002_i0,,tonsiltis,3420,0.006811012
+p20002_i0,,cervical spondylosis,3420,0.006811012
+p20002_i0,,type 2 diabetes,3372,0.006715419
+p20002_i0,,heart valve problem/heart murmur,3345,0.006661648
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Stroke|High blood pressure,3219,0.006410716
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Loose teeth,3159,0.006291225
+p20002_i0,,chronic sinusitis,3080,0.006133894
+p20002_i0,,other joint disorder,3046,0.006066182
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Stroke,2997,0.005968598
+p20002_i0,,iron deficiency anaemia,2994,0.005962623
+p20002_i0,,back pain,2937,0.005849106
+p20002_i0,,bladder problem (not cancer),2922,0.005819233
+p6148_i0,Eye problems/disorders Eyesight ,Macular degeneration,2835,0.005645971
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|High blood pressure,2773,0.005522496
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Angina|High blood pressure,2733,0.005442835
+p20002_i0,,vaginal prolapse/uterine prolapse,2674,0.005325335
+p20002_i0,,heart arrhythmia,2648,0.005273556
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Toothache,2612,0.005201861
+p20002_i0,,ulcerative colitis,2594,0.005166013
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease,2566,0.005110251
+p20002_i0,,tuberculosis (tb),2543,0.005064446
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Post traumatic stress disorder (PTSD),2449,0.004877242
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Toothache,2364,0.004707963
+p20002_i0,,joint disorder,2360,0.004699997
+p20002_i0,,essential hypertension,2353,0.004686056
+p20002_i0,,urinary tract infection/kidney infection,2280,0.004540675
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision,2278,0.004536692
+p20002_i0,,allergy or anaphylactic reaction to food,2216,0.004413217
+p20002_i0,,chronic fatigue syndrome,2154,0.004289743
+p20002_i0,,nasal polyps,2077,0.004136396
+p20002_i0,,other renal/kidney problem,2045,0.004072667
+p20002_i0,,malabsorption/coeliac disease,2043,0.004068684
+p20002_i0,,inguinal hernia,2019,0.004020887
+p20002_i0,,duodenal ulcer,2015,0.004012921
+p20002_i0,,fracture lower leg / ankle,2013,0.004008938
+p20002_i0,,other neurological problem,2007,0.003996989
+p20001_i0,,cervical cancer,2002,0.003987031
+p20002_i0,,meningitis,1992,0.003967116
+p20002_i0,,gestational hypertension/pre-eclampsia,1973,0.003929277
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the lung,1939,0.003861565
+p20002_i0,,chickenpox,1937,0.003857582
+p20002_i0,,nasal/sinus disorder,1868,0.003720167
+p20002_i0,,breast cysts,1861,0.003706226
+p20002_i0,,joint pain,1799,0.003582752
+p20002_i0,,varicose veins,1787,0.003558854
+p6149_i0,Mouth/teeth dental problems Mouth  ,Prefer not to answer,1779,0.003542921
+p20002_i0,,multiple sclerosis,1777,0.003538938
+p20002_i0,,urinary frequency / incontinence,1768,0.003521015
+p22130,Doctor diagnosed COPD (chronic obstructive pulmonary disease) Medical information  ,Yes,1767,0.003519023
+p20002_i0,,transient ischaemic attack (tia),1765,0.00351504
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Social anxiety or social phobia,1723,0.003431396
+p20001_i0,,cin/pre-cancer cells cervix,1700,0.003385591
+p20002_i0,,chronic obstructive airways disease/copd,1656,0.003297964
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums,1647,0.00328004
+p20002_i0,,retinal detachment,1641,0.003268091
+p20002_i0,,head injury,1638,0.003262116
+p20002_i0,,heart/cardiac problem,1618,0.003222286
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Angina,1613,0.003212328
+p20002_i0,,peritonitis,1610,0.003206354
+p20002_i0,,measles / morbillivirus,1609,0.003204362
+p20002_i0,,pleurisy,1599,0.003184447
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Any other phobia (e.g. disabling fear of heights or spiders),1593,0.003172498
+p20002_i0,,sleep apnoea,1588,0.00316254
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Emphysema/chronic bronchitis|Asthma,1576,0.003138642
+p20001_i0,,colon cancer/sigmoid cancer,1574,0.003134659
+p20002_i0,,pernicious anaemia,1506,0.002999235
+p20001_i0,,skin cancer,1485,0.002957413
+p20002_i0,,uterine polyps,1480,0.002947456
+p20002_i0,,crohns disease,1475,0.002937498
+p20002_i0,,benign breast lump,1471,0.002929532
+p20002_i0,,oesophagitis/barretts oesophagus,1461,0.002909617
+p20002_i0,,rectal or colon adenoma/polyps,1457,0.002901651
+p20002_i0,,trapped nerve/compressed nerve,1436,0.002859829
+p20002_i0,,rheumatic fever,1435,0.002857837
+p20002_i0,,mania/bipolar disorder/manic depression,1411,0.00281004
+p20002_i0,,haemorrhoids / piles,1407,0.002802074
+p2453_i0,Cancer diagnosed by doctor Medical conditions  ,Do not know,1400,0.002788134
+p20002_i0,,helicobacter pylori,1398,0.002784151
+p22129,Doctor diagnosed chronic bronchitis Medical information  ,Yes,1382,0.002752286
+p20002_i0,,meniere's disease,1369,0.002726396
+p20002_i0,,ankylosing spondylitis,1365,0.00271843
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums,1336,0.002660676
+p20002_i0,,menorrhagia (unknown cause),1330,0.002648727
+p20002_i0,,thyroid problem (not cancer),1313,0.002614871
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Prefer not to answer,1291,0.002571058
+p2443_i0,Diabetes diagnosed by doctor Medical conditions  ,Do not know,1280,0.002549151
+p20002_i0,,colitis/not crohns or ulcerative colitis,1272,0.002533219
+p20002_i0,,osteopenia,1229,0.002447583
+p20001_i0,,uterine/endometrial cancer,1227,0.0024436
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Hayfever, allergic rhinitis or eczema",1226,0.002441609
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Prefer not to answer,1208,0.002405761
+p6148_i0,Eye problems/disorders Eyesight ,Cataract|Other serious eye condition,1201,0.00239182
+p20002_i0,,diabetic eye disease,1166,0.002322117
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Dentures,1165,0.002320126
+p20001_i0,,bladder cancer,1149,0.002288261
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Emphysema/chronic bronchitis|Asthma|Hayfever, allergic rhinitis or eczema",1146,0.002282287
+p20002_i0,,bronchiectasis,1131,0.002252414
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Loose teeth|Dentures,1131,0.002252414
+p20002_i0,,spontaneous pneumothorax/recurrent pneumothorax,1130,0.002250422
+p20002_i0,,fracture wrist / colles fracture,1112,0.002214575
+p20002_i0,,bone disorder,1108,0.002206609
+p20002_i0,,infective/viral hepatitis,1107,0.002204617
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Toothache,1099,0.002188685
+p20002_i0,,stomach disorder,1077,0.002144871
+p22134, Doctor diagnosed bronchiectasis Medical information ,Yes,1073,0.002136905
+p4041_i0, Gestational diabetes only Medical conditions  ,Yes,1070,0.002130931
+p20002_i0,,pancreatitis,1053,0.002097075
+p2188_i0,"Long-standing illness, disability or infirmity General health  ",Prefer not to answer,1051,0.002093092
+p20002_i0,,fracture forearm / wrist,1042,0.002075168
+p20002_i0,,mumps / epidemic parotitis,1035,0.002061227
+p6149_i0,Mouth/teeth dental problems Mouth  ,Toothache|Dentures,1027,0.002045295
+p20002_i0,,fracture upper arm / humerus / elbow,1019,0.002029363
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums,1011,0.002013431
+p20002_i0,,sarcoidosis,1001,0.001993516
+p20002_i0,,miscarriage,999,0.001989533
+p20002_i0,,polymyalgia rheumatica,995,0.001981566
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Blood clot in the lung,966,0.001923812
+p20001_i0,,non-hodgkins lymphoma,952,0.001895931
+p20002_i0,,psoriatic arthropathy,935,0.001862075
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Anorexia nervosa,915,0.001822245
+p20002_i0,,peripheral vascular disease,910,0.001812287
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Cataract,910,0.001812287
+p20002_i0,,anaemia,906,0.001804321
+p20002_i0,,disc degeneration,870,0.001732626
+p20002_i0,,bph / benign prostatic hypertrophy,858,0.001708728
+p20002_i0,,parkinsons disease,856,0.001704745
+p20001_i0,,testicular cancer,855,0.001702753
+p20002_i0,,liver/biliary/pancreas problem,853,0.00169877
+p20002_i0,,prostate problem (not cancer),839,0.001670889
+p20001_i0,,ovarian cancer,838,0.001668897
+p20002_i0,,tinnitus / tiniitis,835,0.001662923
+p20002_i0,,gynaecological disorder (not cancer),833,0.00165894
+p20002_i0,,other respiratory problems,829,0.001650973
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,"Mania, hypomania, bipolar or manic-depression",825,0.001643007
+p20002_i0,,carpal tunnel syndrome,825,0.001643007
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Emphysema/chronic bronchitis|Hayfever, allergic rhinitis or eczema",825,0.001643007
+p20126_i0,Bipolar and major depression status Mental health  i0,Bipolar I Disorder,807,0.00160716
+p20126_i0,Bipolar and major depression status Mental health  i0,Bipolar II Disorder,806,0.001605168
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Obsessive compulsive disorder (OCD),803,0.001599194
+p20002_i0,,retinal problem,803,0.001599194
+p20002_i0,,gastritis/gastric erosions,797,0.001587245
+p20002_i0,,blistering/desquamating skin disorder,787,0.001567329
+p20002_i0,,rosacea,757,0.001507584
+p20002_i0,,irregular heart beat,754,0.001501609
+p20002_i0,,spinal injury,753,0.001499618
+p20002_i0,,osteomyelitis,750,0.001493643
+p2473_i0,Other serious medical condition/disability diagnosed by doctor Medical conditions  ,Prefer not to answer,742,0.001477711
+p20002_i0,,fibromyalgia,740,0.001473728
+p20002_i0,,alcohol dependency,733,0.001459787
+p20002_i0,,dry eyes,731,0.001455804
+p6149_i0,Mouth/teeth dental problems Mouth  ,Loose teeth|Toothache,719,0.001431906
+p20002_i0,,nervous breakdown,718,0.001429914
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Toothache,699,0.001392075
+p20002_i0,,abnormal smear (cervix),697,0.001388092
+p20001_i0,,non-melanoma skin cancer,693,0.001380126
+p20001_i0,,large bowel cancer/colorectal cancer,686,0.001366186
+p20002_i0,,testicular problems (not cancer),667,0.001328347
+p20002_i0,,eye trauma,663,0.00132038
+p20001_i0,,rodent ulcer,655,0.001304448
+p20002_i0,,malaria,655,0.001304448
+p22137,Doctor diagnosed tuberculosis Medical information  ,Yes,654,0.001302457
+p20002_i0,,peripheral neuropathy,650,0.001294491
+p20001_i0,,kidney/renal cell cancer,649,0.001292499
+p20002_i0,,dyspepsia / indigestion,648,0.001290508
+p4041_i0, Gestational diabetes only Medical conditions  ,Not applicable,644,0.001282542
+p20002_i0,,systemic lupus erythematosis/sle,642,0.001278558
+p20002_i0,,fracture nose,626,0.001246694
+p20002_i0,,polycystic ovaries/polycystic ovarian syndrome,619,0.001232753
+p20002_i0,,schizophrenia,616,0.001226779
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Any other type of psychosis or psychotic illness,590,0.001174999
+p20001_i0,,squamous cell carcinoma,582,0.001159067
+p20002_i0,,fracture tibia,582,0.001159067
+p20002_i0,,infectious mononucleosis / glandular fever / epstein barr virus (ebv),582,0.001159067
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Loose teeth,582,0.001159067
+p20002_i0,,vertigo,580,0.001155084
+p20002_i0,,rubella / german measles,575,0.001145126
+p20002_i0,,other abdominal problem,574,0.001143135
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Asthma,566,0.001127203
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Dentures,558,0.00111127
+p20001_i0,,unclassifiable,555,0.001105296
+p20002_i0,,female infertility,554,0.001103304
+p20002_i0,,stress,553,0.001101313
+p20002_i0,,scarlet fever / scarlatina,545,0.001085381
+p20002_i0,,hepatitis,541,0.001077415
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Cataract,539,0.001073431
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Loose teeth,529,0.001053516
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Bulimia nervosa,528,0.001051525
+p20002_i0,,fracture clavicle / collar bone,528,0.001051525
+p22133, Doctor diagnosed sarcoidosis Medical information  ,Yes,528,0.001051525
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Any other eating disorder,521,0.001037584
+p20002_i0,,raynaud's phenomenon/disease,515,0.001025635
+p20002_i0,,peptic ulcer,515,0.001025635
+p2247_i0,Hearing difficulty/problems Hearing  ,Prefer not to answer,514,0.001023643
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Dentures,511,0.001017669
+p20002_i0,,fracture fibula,504,0.001003728
+p20002_i0,,non-infective hepatitis,504,0.001003728
+p20002_i0,,whooping cough / pertussis,504,0.001003728
+p20002_i0,,thyroid goitre,503,0.001001737
+p20002_i0,,fracture finger,492,0.00097983
+p20002_i0,,bell's palsy/facial nerve palsy,492,0.00097983
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Agoraphobia,488,0.000971864
+p20002_i0,,cholecystitis,488,0.000971864
+p20002_i0,,spinal cord disorder,488,0.000971864
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Asthma|Hayfever, allergic rhinitis or eczema",488,0.000971864
+p20002_i0,,psychological/psychiatric problem,485,0.000965889
+p20002_i0,,insomnia,483,0.000961906
+p20001_i0,,thyroid cancer,479,0.00095394
+p20001_i0,,hodgkins lymphoma / hodgkins disease,474,0.000943982
+p20002_i0,,eye infection,474,0.000943982
+p20002_i0,,hiv/aids,471,0.000938008
+p6148_i0,Eye problems/disorders Eyesight ,Cataract|Macular degeneration,466,0.00092805
+p20002_i0,,sjogren's syndrome/sicca syndrome,465,0.000926059
+p20002_i0,,fracture rib,458,0.000912118
+p20002_i0,,subarachnoid haemorrhage,456,0.000908135
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Loose teeth|Toothache,456,0.000908135
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Toothache,452,0.000900169
+p20002_i0,,clotting disorder/excessive bleeding,448,0.000892203
+p4803_i0,Tinnitus Hearing  ,Prefer not to answer,447,0.000890211
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Loose teeth,445,0.000886228
+p2453_i0,Cancer diagnosed by doctor Medical conditions  ,Prefer not to answer,443,0.000882245
+p20002_i0,,type 1 diabetes,438,0.000872288
+p20002_i0,,neck problem/injury,435,0.000866313
+p20002_i0,,disc problem,434,0.000864321
+p20002_i0,,throat or larynx disorder,433,0.00086233
+p20002_i0,,umbilical hernia,431,0.000858347
+p20002_i0,,burns,430,0.000856355
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Angina|Stroke|High blood pressure,426,0.000848389
+p20002_i0,,hereditary/genetic haematological disorder,425,0.000846398
+p20002_i0,,jaundice (unknown cause),419,0.000834449
+p20002_i0,,low platelets/platelet disorder,411,0.000818516
+p20002_i0,,ectopic pregnancy,411,0.000818516
+p6148_i0,Eye problems/disorders Eyesight ,Prefer not to answer,409,0.000814533
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,"Autism, Asperger's or autistic spectrum disorder",408,0.000812542
+p20002_i0,,shingles,407,0.00081055
+p20002_i0,,cardiomyopathy,405,0.000806567
+p20002_i0,,menopausal symptoms / menopause,405,0.000806567
+p2443_i0,Diabetes diagnosed by doctor Medical conditions  ,Prefer not to answer,404,0.000804576
+p20002_i0,,constipation,400,0.00079661
+p20002_i0,,cystitis,393,0.000782669
+p20002_i0,,renal failure not requiring dialysis,390,0.000776694
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Prefer not to answer group B,387,0.00077072
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Toothache,383,0.000762754
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Loose teeth,380,0.000756779
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Angina|Stroke|High blood pressure,376,0.000748813
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Prefer not to answer group C,375,0.000746822
+p20002_i0,,post-natal depression,375,0.000746822
+p20002_i0,,cervical intra-epithelial neoplasia (cin) / precancerous cells cervix,367,0.000730889
+p20002_i0,,leg claudication/ intermittent claudication,365,0.000726906
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Binge-eating disorder,364,0.000724915
+p22128, Doctor diagnosed emphysema Medical information  ,Yes,364,0.000724915
+p20001_i0,,larynx/throat cancer,360,0.000716949
+p20002_i0,,anorexia/bulimia/other eating disorder,360,0.000716949
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Prefer not to answer group A,359,0.000714957
+p20002_i0,,polio / poliomyelitis,355,0.000706991
+p20002_i0,,liver failure/cirrhosis,355,0.000706991
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,A personality disorder,351,0.000699025
+p20001_i0,,rectal cancer,349,0.000695042
+p20002_i0,,polycystic kidney,342,0.000681101
+p20002_i0,,post-traumatic stress disorder,340,0.000677118
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Toothache,338,0.000673135
+p20002_i0,,fracture skull / head,337,0.000671144
+p20002_i0,,fracture vertebra / crush fracture / vertebral collapse,337,0.000671144
+p20002_i0,,pituitary adenoma/tumour,336,0.000669152
+p20002_i0,,cerebral aneurysm,333,0.000663178
+p20002_i0,,scoliosis,328,0.00065322
+p20002_i0,,abdominal hernia,322,0.000641271
+p20001_i0,,chronic lymphocytic,320,0.000637288
+p20002_i0,,fracture neck of femur / hip,320,0.000637288
+p20002_i0,,dupuytren's contracture,318,0.000633305
+p20002_i0,,ureteric obstruction/hydronephrosis,317,0.000631313
+p20002_i0,,dysmenorrhoea / dysmenorrhea,314,0.000625339
+p20002_i0,,urticaria,313,0.000623347
+p20002_i0,,encephalitis,310,0.000617372
+p20002_i0,,fracture toe,309,0.000615381
+p20002_i0,,heart failure/pulmonary odema,307,0.000611398
+p20002_i0,,fracture patella / knee,306,0.000609406
+p20002_i0,,cellulitis,306,0.000609406
+p20001_i0,,lung cancer,303,0.000603432
+p20002_i0,,erectile dysfunction / impotence,299,0.000595466
+p20002_i0,,acne/acne vulgaris,296,0.000589491
+p20002_i0,,macular degeneration,295,0.0005875
+p20002_i0,,septicaemia / sepsis,294,0.000585508
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Panic disorder,293,0.000583517
+p20002_i0,,oesophageal disorder,292,0.000581525
+p20002_i0,,tennis elbow / lateral epicondylitis,292,0.000581525
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the lung|Hayfever, allergic rhinitis or eczema",291,0.000579534
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Toothache|Dentures,290,0.000577542
+p20002_i0,,fracture foot,287,0.000571567
+p20002_i0,,fracture shaft of femur,287,0.000571567
+p20002_i0,,breast disease (not cancer),283,0.000563601
+p20002_i0,,gestational diabetes,283,0.000563601
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Loose teeth|Toothache,283,0.000563601
+p20002_i0,,tendonitis / tendinitis / tenosynovitis,279,0.000555635
+p20002_i0,,allergy to house dust mite,278,0.000553644
+p20002_i0,,peripheral nerve injury,278,0.000553644
+p20002_i0,,cranial nerve problem/palsy,274,0.000545678
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Loose teeth|Dentures,273,0.000543686
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Loose teeth|Dentures,268,0.000533728
+p20002_i0,,renal failure requiring dialysis,265,0.000527754
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Cataract,265,0.000527754
+p20002_i0,,gall bladder disease,264,0.000525762
+p20002_i0,,pericardial problem,263,0.000523771
+p20002_i0,,fracture shoulder / scapula,260,0.000517796
+p20001_i0,,sarcoma/fibrosarcoma,258,0.000513813
+p20002_i0,,lymphoedema,257,0.000511822
+p20002_i0,,peripheral nerve disorder,254,0.000505847
+p20002_i0,,thyroiditis,248,0.000493898
+p20002_i0,,fracture hand,247,0.000491906
+p20002_i0,,svt / supraventricular tachycardia,242,0.000481949
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Attention deficit or attention deficit and hyperactivity disorder,241,0.000479957
+p20002_i0,,anal fissure,237,0.000471991
+p20002_i0,,labyrinthitis,237,0.000471991
+p20002_i0,,otosclerosis,237,0.000471991
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Stroke|High blood pressure,234,0.000466017
+p20001_i0,,brain cancer / primary malignant brain tumour,232,0.000462034
+p20002_i0,,renal/kidney failure,230,0.000458051
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Dentures,230,0.000458051
+p20001_i0,,small intestine/small bowel cancer,228,0.000454067
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Loose teeth|Toothache,228,0.000454067
+p20002_i0,,retinal artery/vein occlusion,221,0.000440127
+p6149_i0,Mouth/teeth dental problems Mouth  ,Loose teeth|Toothache|Dentures,220,0.000438135
+p20001_i0,,leukaemia,219,0.000436144
+p20002_i0,,fracture radius,218,0.000434152
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Other serious eye condition,218,0.000434152
+p20002_i0,,iritis,217,0.000432161
+p20001_i0,,oesophageal cancer,212,0.000422203
+p20002_i0,,deliberate self-harm/suicide attempt,212,0.000422203
+p20002_i0,,fracture jaw,211,0.000420212
+p20002_i0,,trigemminal neuralgia,209,0.000416229
+p20002_i0,,undescended testicle,208,0.000414237
+p20002_i0,,pneumothorax,205,0.000408262
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Toothache|Dentures,204,0.000406271
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the lung|Asthma,204,0.000406271
+p20002_i0,,vasculitis,200,0.000398305
+p20002_i0,,polycythaemia vera,199,0.000396313
+p20002_i0,,vocal cord polyp,195,0.000388347
+p20002_i0,,acute infective polyneuritis/guillain-barre syndrome,195,0.000388347
+p20002_i0,,connective tissue disorder,194,0.000386356
+p20002_i0,,subdural haemorrhage/haematoma,194,0.000386356
+p20002_i0,,asbestosis,193,0.000384364
+p20002_i0,,fracture pelvis,192,0.000382373
+p20001_i0,,liver/hepatocellular cancer,191,0.000380381
+p20002_i0,,bowel / intestinal obstruction,191,0.000380381
+p20002_i0,,breast fibroadenoma,191,0.000380381
+p20002_i0,,food intolerance,189,0.000376398
+p20002_i0,,emphysema,189,0.000376398
+p20002_i0,,lichen planus,188,0.000374407
+p20002_i0,,inflammatory bowel disease,187,0.000372415
+p20001_i0,,stomach cancer,185,0.000368432
+p20002_i0,,hepatitis a,185,0.000368432
+p20002_i0,,herpes simplex,184,0.00036644
+p20002_i0,,adrenocortical insufficiency/addison's disease,183,0.000364449
+p20002_i0,,fracture face / orbit / eye socket,182,0.000362457
+p20002_i0,,hypopituitarism,180,0.000358474
+p20001_i0,,multiple myeloma,179,0.000356483
+p20002_i0,,plantar fascitis,179,0.000356483
+p20002_i0,,prostatitis,179,0.000356483
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma,179,0.000356483
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Loose teeth|Dentures,178,0.000354491
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Loose teeth,176,0.000350508
+p20002_i0,,chronic/degenerative neurological problem,173,0.000344534
+p20002_i0,,myositis/myopathy,173,0.000344534
+p20002_i0,,gastrointestinal bleeding,173,0.000344534
+p20002_i0,,cervical polyps,172,0.000342542
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the lung|Asthma|Hayfever, allergic rhinitis or eczema",172,0.000342542
+p20002_i0,,fracture metatarsal,169,0.000336568
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Cataract|Other serious eye condition,169,0.000336568
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Angina|Stroke,167,0.000332585
+p20002_i0,,chronic skin ulcers,165,0.000328601
+p20002_i0,,parathyroid gland problem (not cancer),164,0.00032661
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Loose teeth|Toothache,164,0.00032661
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Loose teeth|Toothache,164,0.00032661
+p20002_i0,,thalassaemia,162,0.000322627
+p20002_i0,,vitiligo,161,0.000320635
+p20002_i0,,scleroderma/systemic sclerosis,161,0.000320635
+p20002_i0,,rectal prolapse,160,0.000318644
+p20002_i0,,cerebral palsy,160,0.000318644
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Loose teeth|Toothache,158,0.000314661
+p20002_i0,,blepharitis / eyelid infection,157,0.000312669
+p20002_i0,,interstitial lung disease,157,0.000312669
+p22140,Doctor diagnosed lung cancer (not mesothelioma) Medical information  ,Yes,156,0.000310678
+p20002_i0,,brain haemorrhage,155,0.000308686
+p20002_i0,,fibrocystic disease,155,0.000308686
+p20002_i0,,fracture ulna,154,0.000306695
+p20002_i0,,optic neuritis,154,0.000306695
+p20001_i0,,tongue cancer,153,0.000304703
+p29000, Mental health conditions ever diagnosed by a professional Mental health  ,Schizophrenia,151,0.00030072
+p20002_i0,,lichen sclerosis,150,0.000298729
+p20002_i0,,spinal stenosis,147,0.000292754
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Loose teeth|Toothache|Dentures,147,0.000292754
+p20002_i0,,benign neuroma,146,0.000290763
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Blood clot in the lung|Hayfever, allergic rhinitis or eczema",145,0.000288771
+p20002_i0,,diabetic neuropathy/ulcers,144,0.000286779
+p20001_i0,,eye and/or adnexal cancer,142,0.000282796
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Loose teeth|Dentures,139,0.000276822
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Emphysema/chronic bronchitis,139,0.000276822
+p20002_i0,,benign / essential tremor,138,0.00027483
+p20002_i0,,myasthenia gravis {1437_1489},137,0.000272839
+p20002_i0,,nephritis,137,0.000272839
+p20001_i0,,primary bone cancer,135,0.000268856
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Dentures,135,0.000268856
+p20001_i0,,lymphoma,134,0.000266864
+p20002_i0,,mitral regurgitation / incompetence,134,0.000266864
+p6148_i0,Eye problems/disorders Eyesight ,Macular degeneration|Other serious eye condition,134,0.000266864
+p20002_i0,,neutropenia/lymphopenia,133,0.000264873
+p20001_i0,,"malignant lymph node, unspecified",132,0.000262881
+p20002_i0,,gastroenteritis/dysentry,132,0.000262881
+p20002_i0,,pyloric stenosis,131,0.00026089
+p20002_i0,,hepatitis c,130,0.000258898
+p2247_i0,Hearing difficulty/problems Hearing  ,I am completely deaf,130,0.000258898
+p20002_i0,,femoral hernia,129,0.000256907
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Stroke,129,0.000256907
+p20002_i0,,bursitis,125,0.000248941
+p20002_i0,,alopecia / hair loss,124,0.000246949
+p20002_i0,,dementia/alzheimers/cognitive impairment,124,0.000246949
+p20002_i0,,fracture thumb,123,0.000244957
+p6148_i0,Eye problems/disorders Eyesight ,Injury or trauma resulting in loss of vision|Other serious eye condition,123,0.000244957
+p20001_i0,,chronic myeloid,122,0.000242966
+p20002_i0,,neurological injury/trauma,120,0.000238983
+p6149_i0,Mouth/teeth dental problems Mouth  ,Bleeding gums|Loose teeth|Toothache|Dentures,120,0.000238983
+p20002_i0,,pulmonary fibrosis,119,0.000236991
+p4041_i0, Gestational diabetes only Medical conditions  ,Do not know,119,0.000236991
+p20002_i0,,meningioma / benign meningeal tumour,117,0.000233008
+p6150_i0, Vascular/heart problems diagnosed by doctor Medical conditions  ,Heart attack|Angina|Stroke,117,0.000233008
+p20002_i0,,parathyroid hyperplasia/adenoma,116,0.000231017
+p20002_i0,,pericarditis,112,0.000223051
+p20001_i0,,cancer of lip/mouth/pharynx/oral cavity,110,0.000219068
+p20002_i0,,hepatitis b,108,0.000215085
+p22135,Doctor diagnosed idiopathic pulmonary fibrosis,Yes,108,0.000215085
+p20002_i0,,thyroid radioablation therapy,105,0.00020911
+p20002_i0,,oesophageal stricture,105,0.00020911
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Loose teeth|Toothache|Dentures,105,0.00020911
+p20002_i0,,obsessive compulsive disorder (ocd),104,0.000207119
+p20002_i0,,grave's disease,103,0.000205127
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Loose teeth,102,0.000203135
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Blood clot in the lung|Asthma|Hayfever, allergic rhinitis or eczema",102,0.000203135
+p20002_i0,,myocarditis,101,0.000201144
+p20002_i0,,anal problem,100,0.000199152
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision,100,0.000199152
+p20002_i0,,aortic regurgitation / incompetence,99,0.000197161
+p20002_i0,,respiratory infection,98,0.000195169
+p20002_i0,,cervical erosion,96,0.000191186
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Bleeding gums|Loose teeth|Dentures,96,0.000191186
+p20002_i0,,incisional hernia,95,0.000189195
+p20002_i0,,giant cell/temporal arteritis,95,0.000189195
+p20002_i0,,wegners granulmatosis,94,0.000187203
+p20002_i0,,fibrosing alveolitis/unspecified alveolitis,94,0.000187203
+p20002_i0,,venous thromboembolic disease,93,0.000185212
+p20002_i0,,soft tissue inflammation,91,0.000181229
+p20002_i0,,hypertrophic cardiomyopathy (hcm / hocm),91,0.000181229
+p20002_i0,,mitral valve prolapse,90,0.000179237
+p20002_i0,,ovarian problem,90,0.000179237
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Toothache|Dentures,89,0.000177246
+p20001_i0,,parotid gland cancer,88,0.000175254
+p20002_i0,,atrial flutter,88,0.000175254
+p20002_i0,,hyperparathyroidism,88,0.000175254
+p20002_i0,,disorder or pituitary gland,88,0.000175254
+p20002_i0,,contact dermatitis,88,0.000175254
+p20002_i0,,aortic aneurysm,87,0.000173263
+p20002_i0,,aortic stenosis,87,0.000173263
+p20002_i0,,pyelonephritis,87,0.000173263
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Bleeding gums|Toothache|Dentures,87,0.000173263
+p20002_i0,,haemochromatosis,86,0.000171271
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Macular degeneration,86,0.000171271
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Macular degeneration,85,0.00016928
+p22139,Doctor diagnosed asbestosis Medical information  ,Yes,85,0.00016928
+p20001_i0,,vulval cancer,84,0.000167288
+p20002_i0,,primary biliary cirrhosis,83,0.000165296
+p20001_i0,,pancreas cancer,82,0.000163305
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Blood clot in the lung|Asthma,82,0.000163305
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the leg (DVT)|Emphysema/chronic bronchitis|Asthma,79,0.00015733
+p20002_i0,,wolff parkinson white / wpw syndrome,78,0.000155339
+p20001_i0,,anal cancer,75,0.000149364
+p20002_i0,,hyperprolactinaemia,75,0.000149364
+p20002_i0,,uterine problem,75,0.000149364
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Loose teeth|Toothache|Dentures,75,0.000149364
+p20002_i0,,pelvic inflammatory disease/ pid,74,0.000147373
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Loose teeth|Toothache|Dentures,74,0.000147373
+p20002_i0,,other demyelinating disease (not multiple sclerosis),73,0.000145381
+p20002_i0,,scrotal problem (not cancer),73,0.000145381
+p20002_i0,,brain abscess/intracranial abscess,73,0.000145381
+p20002_i0,,alcoholic liver disease / alcoholic cirrhosis,73,0.000145381
+p20002_i0,,fracture neck / cervical fracture,73,0.000145381
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Other serious eye condition,73,0.000145381
+p20002_i0,,pleural plaques (not known asbestosis),72,0.00014339
+p20002_i0,,spina bifida,72,0.00014339
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor","Blood clot in the leg (DVT)|Emphysema/chronic bronchitis|Asthma|Hayfever, allergic rhinitis or eczema",72,0.00014339
+p20002_i0,,sickle cell disease,71,0.000141398
+p20002_i0,,myeloproliferative disorder,70,0.000139407
+p20002_i0,,allergy to elastoplast,70,0.000139407
+p20002_i0,,kidney nephropathy,70,0.000139407
+p20001_i0,,non-small cell lung cancer,69,0.000137415
+p20001_i0,,small cell lung cancer,69,0.000137415
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Toothache|Dentures,69,0.000137415
+p20002_i0,,cushings syndrome,68,0.000135424
+p6148_i0,Eye problems/disorders Eyesight ,Diabetes related eye disease|Glaucoma|Cataract,68,0.000135424
+p20002_i0,,haemophilia,67,0.000133432
+p20002_i0,,paget's disease,66,0.000131441
+p20002_i0,,acromegaly,65,0.000129449
+p20002_i0,,mrsa / methicillin resistant staphylococcus aureus,65,0.000129449
+p20002_i0,,polymyositis,65,0.000129449
+p20002_i0,,mitral valve disease,65,0.000129449
+p20002_i0,,bowel / intestinal perforation,65,0.000129449
+p20002_i0,,arterial embolism,64,0.000127458
+p20002_i0,,pemphigoid/pemphigus,64,0.000127458
+p20002_i0,,bile duct obstruction/ascending cholangitis,64,0.000127458
+p20002_i0,,housemaid's knee (prepatellar bursitis),62,0.000123474
+p6148_i0,Eye problems/disorders Eyesight ,Cataract|Macular degeneration|Other serious eye condition,61,0.000121483
+p20002_i0,,diphtheria,59,0.0001175
+p20002_i0,,hydatiform mole,58,0.000115508
+p20002_i0,,monoclonal gammopathy/not myeloma,57,0.000113517
+p20002_i0,,aortic valve disease,56,0.000111525
+p20002_i0,,glomerulnephritis,56,0.000111525
+p20002_i0,,motor neurone disease,56,0.000111525
+p20002_i0,,paraplegia,56,0.000111525
+p6148_i0,Eye problems/disorders Eyesight ,Glaucoma|Injury or trauma resulting in loss of vision|Cataract,56,0.000111525
+p6152_i0," Blood clot, DVT, bronchitis, emphysema, asthma, rhinitis, eczema, allergy diagnosed by doctor",Blood clot in the lung|Emphysema/chronic bronchitis,55,0.000109534
+p20002_i0,,myasthenia gravis {1260_1284},54,0.000107542
+p20002_i0,,infection of nervous system,54,0.000107542
+p6149_i0,Mouth/teeth dental problems Mouth  ,Painful gums|Bleeding gums|Toothache|Dentures,54,0.000107542
+p20002_i0,,other substance abuse/dependency,52,0.000103559
+p20002_i0,,pancreatic disease,51,0.000101568
+p20002_i0,,oesophageal varicies,51,0.000101568
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Loose teeth|Dentures,51,0.000101568
+p6149_i0,Mouth/teeth dental problems Mouth  ,Mouth ulcers|Painful gums|Loose teeth|Toothache,51,0.000101568

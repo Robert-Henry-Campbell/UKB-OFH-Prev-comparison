@@ -1,0 +1,211 @@
+question,answer,count,denominator,prevalence
+questionnaire$diag_1_m,Angina,934,52353,0.017840429392775962
+questionnaire$diag_1_m,Cancer,3693,52353,0.07054037017935935
+questionnaire$diag_1_m,Diabetes,2503,52353,0.04781005864038355
+questionnaire$diag_1_m,Heart attack,773,52353,0.014765151949267473
+questionnaire$diag_1_m,High blood pressure,10538,52353,0.20128741428380417
+questionnaire$diag_1_m,Lung Disease,1349,52353,0.0257673867782171
+questionnaire$diag_1_m,None of the above,33527,52353,0.6404026512329761
+questionnaire$diag_1_m,Other,5113,52353,0.09766393520906157
+questionnaire$diag_1_m,Stroke,720,52353,0.013752793536187038
+questionnaire$diag_2_m,Autoimmune disorder,91548,1708163,0.053594416926253524
+questionnaire$diag_2_m,Blood disorders (Anaemia),125796,1708163,0.07364402577505777
+questionnaire$diag_2_m,Cancer,133276,1708163,0.07802299897609304
+questionnaire$diag_2_m,Complications or difficulties in pregnancy or childbirth,110263,1708163,0.06455063129221275
+questionnaire$diag_2_m,Digestive system or liver problems,209401,1708163,0.12258841808422265
+questionnaire$diag_2_m,"Endocrine, nutritional and metabolic disorders (e.g. diabetes, thyroid disorder, vitamin deficiencies)",184745,1708163,0.10815419839909891
+questionnaire$diag_2_m,Eye or visual problems,312364,1708163,0.18286545253585285
+questionnaire$diag_2_m,"Fractures, breaks, or joint problems",397007,1708163,0.23241751519029508
+questionnaire$diag_2_m,Heart or circulatory disease (e.g. high blood pressure or stroke),279144,1708163,0.16341765979007858
+questionnaire$diag_2_m,Kidney or urinary system disorders,107732,1708163,0.06306892257940255
+questionnaire$diag_2_m,Lung or respiratory problems,190248,1708163,0.11137578790782847
+questionnaire$diag_2_m,"Mental health conditions (e.g. depression, bipolar disorder)",343095,1708163,0.20085612438625589
+questionnaire$diag_2_m,"Neurodevelopmental conditions (e.g. Autism spectrum disorder, ADHD)",37746,1708163,0.02209742278693544
+questionnaire$diag_2_m,"Neurological disorders (things that affect that brain or nervous system. E.g., Epilepsy)",43141,1708163,0.02525578647939336
+questionnaire$diag_2_m,None of the above,448740,1708163,0.26270326660863164
+questionnaire$diag_2_m,Other not listed,116346,1708163,0.06811176685128996
+questionnaire$diag_2_m,Reproductive system problems,104394,1708163,0.061114776517229324
+questionnaire$diag_anaemia_1_m,Aplastic anaemia,269,122664,0.0021929824561403508
+questionnaire$diag_anaemia_1_m,None of the above,5931,122664,0.04835159459988261
+questionnaire$diag_anaemia_1_m,Other (not listed),6524,122664,0.05318593882475706
+questionnaire$diag_anaemia_1_m,Sickle cell anaemia,447,122664,0.0036441009587164937
+questionnaire$diag_anaemia_1_m,Thalassaemia,2375,122664,0.01936183395291202
+questionnaire$diag_anaemia_1_m,Vitamin deficiency anaemia,19658,122664,0.16025891867214503
+questionnaire$diag_anaemia_1_m,iron deficiency anaemia,105784,122664,0.8623883127894084
+questionnaire$diag_auto_1_m,Graves’ disease,3527,90570,0.03894225460969416
+questionnaire$diag_auto_1_m,Guillain-Barre syndrome,594,90570,0.006558463067240808
+questionnaire$diag_auto_1_m,Inflammatory Bowel Disease (IBD),11816,90570,0.1304626255934636
+questionnaire$diag_auto_1_m,Lupus,3046,90570,0.03363144529093519
+questionnaire$diag_auto_1_m,Multiple Sclerosis (MS),3091,90570,0.03412829855360495
+questionnaire$diag_auto_1_m,None of the above,12836,90570,0.1417246328806448
+questionnaire$diag_auto_1_m,Other (not listed),40393,90570,0.44598652975598985
+questionnaire$diag_auto_1_m,Psoriasis,13465,90570,0.14866953737440652
+questionnaire$diag_auto_1_m,Rheumatoid arthritis,14474,90570,0.159810091641824
+questionnaire$diag_cancer_1_m,Anal,927,133242,0.006957265727023011
+questionnaire$diag_cancer_1_m,Another type of cancer,6071,133242,0.04556371114213236
+questionnaire$diag_cancer_1_m,Bladder,4325,133242,0.032459734918419116
+questionnaire$diag_cancer_1_m,Brain,686,133242,0.00514852674081746
+questionnaire$diag_cancer_1_m,Breast,34874,133242,0.2617342879872713
+questionnaire$diag_cancer_1_m,Cervical,4829,133242,0.036242325993305416
+questionnaire$diag_cancer_1_m,Colon/rectal,8983,133242,0.06741868179703096
+questionnaire$diag_cancer_1_m,Gastric,278,133242,0.002086429204004743
+questionnaire$diag_cancer_1_m,"Head and neck (Including cancers of the mouth, sinuses, nose, or throat. Not including brain or skin cancers.)",4166,133242,0.03126641749598475
+questionnaire$diag_cancer_1_m,"I know I had cancer, but I don't know what type",444,133242,0.0033322826135903094
+questionnaire$diag_cancer_1_m,Kidney,2835,133242,0.02127707479623542
+questionnaire$diag_cancer_1_m,Leukaemia (blood and bone marrow),2942,133242,0.0220801248855466
+questionnaire$diag_cancer_1_m,Liver,507,133242,0.0038051064979510965
+questionnaire$diag_cancer_1_m,Lung or bronchial,1989,133242,0.014927725491961995
+questionnaire$diag_cancer_1_m,Lymphoma,5481,133242,0.04113567793938848
+questionnaire$diag_cancer_1_m,None of the above,548,133242,0.004112817279836688
+questionnaire$diag_cancer_1_m,Oesophageal,814,133242,0.006109184791582234
+questionnaire$diag_cancer_1_m,Ovarian,2186,133242,0.016406238273217154
+questionnaire$diag_cancer_1_m,Pancreatic,322,133242,0.0024166554089551343
+questionnaire$diag_cancer_1_m,Prostate,21864,133242,0.16409240329625793
+questionnaire$diag_cancer_1_m,Skin,34771,133242,0.2609612584620465
+questionnaire$diag_cancer_1_m,Stomach,442,133242,0.0033172723315471097
+questionnaire$diag_cancer_1_m,Testicular,2535,133242,0.019025532489755484
+questionnaire$diag_cancer_1_m,Thyroid,2615,133242,0.019625943771483467
+questionnaire$diag_cancer_1_m,Uterine (endometrial),2324,133242,0.017441947734197924
+questionnaire$diag_cancer_skin_1_m,Basal cell,18310,32791,0.5583849226922021
+questionnaire$diag_cancer_skin_1_m,Melanoma,13786,32791,0.4204202372602238
+questionnaire$diag_cancer_skin_1_m,None of the above,472,32791,0.014394193528712147
+questionnaire$diag_cancer_skin_1_m,Squamous cell,4625,32791,0.14104479887774085
+questionnaire$diag_cvd_1_m,Abnormal Heart Rhythm (Arrhythmia),45767,278010,0.16462357469155786
+questionnaire$diag_cvd_1_m,B-12 Deficiency (Pernicious Anaemia),15405,278010,0.0554116758389986
+questionnaire$diag_cvd_1_m,"Blood Clots (Deep Vein Thrombosis, Pulmonary Embolism)",12331,278010,0.044354519621596346
+questionnaire$diag_cvd_1_m,Chest Pain (Angina),21438,278010,0.07711233408870184
+questionnaire$diag_cvd_1_m,Congestive Heart Failure,4065,278010,0.014621776195100895
+questionnaire$diag_cvd_1_m,Coronary Artery/Coronary Heart Disease,23540,278010,0.08467321319377001
+questionnaire$diag_cvd_1_m,Heart Attack (Myocardial Infarction),17983,278010,0.06468472357109456
+questionnaire$diag_cvd_1_m,Heart Valve Problems,16404,278010,0.05900507176000863
+questionnaire$diag_cvd_1_m,High Blood Pressure (Hypertension) [Please do not include hypertension during pregnancy.],199611,278010,0.7179993525412754
+questionnaire$diag_cvd_1_m,High Cholesterol,127383,278010,0.45819574835437576
+questionnaire$diag_cvd_1_m,None of the above,6333,278010,0.022779756123880435
+questionnaire$diag_cvd_1_m,Other (not listed),15221,278010,0.05474982914283659
+questionnaire$diag_cvd_1_m,Stroke,16549,278010,0.05952663573252761
+questionnaire$diag_endocr_1_m,Cushing syndrome,394,182628,0.0021573909805725298
+questionnaire$diag_endocr_1_m,Lactose intolerance,5751,182628,0.03149024246008279
+questionnaire$diag_endocr_1_m,None of the above,10523,182628,0.057619861138489166
+questionnaire$diag_endocr_1_m,Other (not listed),20294,182628,0.11112206233436275
+questionnaire$diag_endocr_1_m,Overactive thyroid,19041,182628,0.10426112096721203
+questionnaire$diag_endocr_1_m,Thiamine deficiency,1761,182628,0.009642552073066562
+questionnaire$diag_endocr_1_m,Type 1 diabetes,5911,182628,0.032366340320213766
+questionnaire$diag_endocr_1_m,Type 2 diabetes,42714,182628,0.23388527498521586
+questionnaire$diag_endocr_1_m,Underactive thyroid,71859,182628,0.39347197581969906
+questionnaire$diag_endocr_1_m,Vitamin A deficiency,1025,182628,0.005612501916464069
+questionnaire$diag_endocr_1_m,Vitamin D deficiency,53691,182628,0.29399106380182666
+questionnaire$diag_gastro_1_m,Barrett’s Oesophagus,6567,206149,0.03185559959058739
+questionnaire$diag_gastro_1_m,Coeliac Disease (also known as Gluten-Sensitive Enteropathy),5798,206149,0.028125288019830316
+questionnaire$diag_gastro_1_m,Crohn’s Disease,5010,206149,0.024302810103371833
+questionnaire$diag_gastro_1_m,Diverticulitis or Diverticulosis,29464,206149,0.14292574788138676
+questionnaire$diag_gastro_1_m,Fatty liver disease,24021,206149,0.1165225152680828
+questionnaire$diag_gastro_1_m,Gallstones (Biliary Stones),30976,206149,0.150260248655099
+questionnaire$diag_gastro_1_m,Gastro-oesophageal Acid Reflux (GORD),88646,206149,0.43000936216037916
+questionnaire$diag_gastro_1_m,Hepatitis,8151,206149,0.039539362305904956
+questionnaire$diag_gastro_1_m,Inflammatory Bowel Disease (IBD),5482,206149,0.026592416165006863
+questionnaire$diag_gastro_1_m,Irritable bowel syndrome (IBS),81229,206149,0.39403053131472865
+questionnaire$diag_gastro_1_m,Liver Cirrhosis,2750,206149,0.0133398658252041
+questionnaire$diag_gastro_1_m,None of the above,17094,206149,0.08292060596946868
+questionnaire$diag_gastro_1_m,Pancreatitis,5187,206149,0.02516141237648497
+questionnaire$diag_gastro_1_m,Ulcerative Colitis,8753,206149,0.04245958020654963
+questionnaire$diag_neuro_1_m,Alzheimer’s disease/dementia,143,42454,0.003368351627644038
+questionnaire$diag_neuro_1_m,Early onset Alzheimer’s disease/dementia,168,42454,0.003957224289819569
+questionnaire$diag_neuro_1_m,Epilepsy,13072,42454,0.3079097375983417
+questionnaire$diag_neuro_1_m,Migraine with aura,7834,42454,0.18452913741932445
+questionnaire$diag_neuro_1_m,Migraine without aura,6108,42454,0.14387336882272578
+questionnaire$diag_neuro_1_m,None of the above,5910,42454,0.13920949733829557
+questionnaire$diag_neuro_1_m,Other (not listed),11758,42454,0.2769585904743958
+questionnaire$diag_neuro_1_m,Parkinson's disease,1670,42454,0.039336693833325484
+questionnaire$diag_neuro_1_m,Vascular dementia,113,42454,0.002661704433033401
+questionnaire$diag_neuro_dev_1_m,Attention deficit hyperactivity disorder (ADHD),20164,36834,0.5474290058098495
+questionnaire$diag_neuro_dev_1_m,Autism spectrum disorder,15666,36834,0.42531356898517675
+questionnaire$diag_neuro_dev_1_m,Developmental learning disorders,3796,36834,0.10305695824509964
+questionnaire$diag_neuro_dev_1_m,Developmental motor coordination disorder,1723,36834,0.04677743389259923
+questionnaire$diag_neuro_dev_1_m,Developmental speech or language disorders,1367,36834,0.03711245045338546
+questionnaire$diag_neuro_dev_1_m,Disorder of intellectual development,390,36834,0.010588043655318456
+questionnaire$diag_neuro_dev_1_m,None of the above,1266,36834,0.03437041863495683
+questionnaire$diag_neuro_dev_1_m,Other (not listed),2667,36834,0.07240592930444698
+questionnaire$diag_neuro_dev_1_m,Stereotyped movement disorder,92,36834,0.002497692349459738
+questionnaire$diag_ob_1_m,Complicated labour and delivery,45808,109868,0.4169366876615575
+questionnaire$diag_ob_1_m,Eclampsia,1896,109868,0.01725707212291113
+questionnaire$diag_ob_1_m,Ectopic or tubal pregnancy,6251,109868,0.05689554738413369
+questionnaire$diag_ob_1_m,Gestational diabetes,8645,109868,0.07868533148869553
+questionnaire$diag_ob_1_m,Gestational hypertension,5218,109868,0.04749335566315943
+questionnaire$diag_ob_1_m,Hyperemesis gravidarum,5961,109868,0.05425601631048167
+questionnaire$diag_ob_1_m,Live birth and still birth (loss of one or more multiples),2171,109868,0.019760075727236318
+questionnaire$diag_ob_1_m,Miscarriage (pregnancy loss before 20 weeks),40265,109868,0.3664852368296501
+questionnaire$diag_ob_1_m,None of the above,1254,109868,0.011413696435722867
+questionnaire$diag_ob_1_m,Other not listed,15038,109868,0.13687333891578984
+questionnaire$diag_ob_1_m,Pre-eclampsia,17067,109868,0.15534095460006553
+questionnaire$diag_ob_1_m,Preterm labour and delivery,13151,109868,0.11969818327447482
+questionnaire$diag_ob_1_m,Stillbirth (pregnancy loss after 20 weeks),5744,109868,0.05228091892088688
+questionnaire$diag_ob_1_m,Traumatic labour or delivery,33028,109868,0.30061528379509955
+questionnaire$diag_ob_1_m,Trying to get pregnant for more than a year but not getting pregnant during that time,23045,109868,0.20975170204245094
+questionnaire$diag_opthal_1_m,Cataracts,94988,303565,0.312908273351671
+questionnaire$diag_opthal_1_m,Colour blindness,7181,303565,0.02365555976479502
+questionnaire$diag_opthal_1_m,Diabetic retinopathy,5934,303565,0.019547708069112053
+questionnaire$diag_opthal_1_m,Double vision,13288,303565,0.0437731622552007
+questionnaire$diag_opthal_1_m,Glaucoma,27279,303565,0.08986213825704545
+questionnaire$diag_opthal_1_m,Macular degeneration,18608,303565,0.061298239256831324
+questionnaire$diag_opthal_1_m,Night blindness,2186,303565,0.007201093670218899
+questionnaire$diag_opthal_1_m,None of the above,66862,303565,0.2202559583614712
+questionnaire$diag_opthal_1_m,Other (not listed),62651,303565,0.20638413519345117
+questionnaire$diag_opthal_1_m,Retinal detachment,15326,303565,0.050486716189284006
+questionnaire$diag_opthal_1_m,Visual impairment including blindness,43957,303565,0.1448025958196762
+questionnaire$diag_osteo_1_m,Gout,17873,394002,0.04536271389485332
+questionnaire$diag_osteo_1_m,Hip fracture,10201,394002,0.025890731519129344
+questionnaire$diag_osteo_1_m,None of the above,42477,394002,0.10780909741574916
+questionnaire$diag_osteo_1_m,Osteoarthritis (arthritis),117550,394002,0.2983487393465008
+questionnaire$diag_osteo_1_m,Osteoporosis,26404,394002,0.06701488824929823
+questionnaire$diag_osteo_1_m,Other (not listed),191445,394002,0.48589854873833127
+questionnaire$diag_psych_1_m,Anxiety,232379,341917,0.6796357010619536
+questionnaire$diag_psych_1_m,Bipolar disorder,8555,341917,0.025020692156283542
+questionnaire$diag_psych_1_m,Body dysmorphia,6398,341917,0.01871214359040352
+questionnaire$diag_psych_1_m,Depression,281344,341917,0.8228429706624707
+questionnaire$diag_psych_1_m,Eating disorder,22593,341917,0.06607743984651246
+questionnaire$diag_psych_1_m,None of the above,2266,341917,0.0066273393835346
+questionnaire$diag_psych_1_m,Obsessive Compulsive Disorder,17096,341917,0.05000043870296007
+questionnaire$diag_psych_1_m,Other (not listed),5257,341917,0.015375076407432213
+questionnaire$diag_psych_1_m,Personality disorder,11972,341917,0.035014345586794456
+questionnaire$diag_psych_1_m,Post Traumatic Stress Disorder (PTSD),40007,341917,0.11700792882483176
+questionnaire$diag_psych_1_m,Premenstrual dysphoric disorder,4084,341917,0.011944419259644885
+questionnaire$diag_psych_1_m,Psychosis,6576,341917,0.019232737769692646
+questionnaire$diag_psych_1_m,Schizoaffective disorder,809,341917,0.0023660712980050715
+questionnaire$diag_psych_1_m,Schizophrenia,1698,341917,0.004966117508050199
+questionnaire$diag_psych_anx_1_m,Agoraphobia,5495,215901,0.025451480076516552
+questionnaire$diag_psych_anx_1_m,Generalised anxiety disorder,172470,215901,0.7988383564689372
+questionnaire$diag_psych_anx_1_m,None of the above,5349,215901,0.024775244209151417
+questionnaire$diag_psych_anx_1_m,Other (not listed),4411,215901,0.020430660348956235
+questionnaire$diag_psych_anx_1_m,Panic attacks,74512,215901,0.3451211434870612
+questionnaire$diag_psych_anx_1_m,Panic disorder,15770,215901,0.07304273718046697
+questionnaire$diag_psych_anx_1_m,Social anxiety disorder,41563,215901,0.19250952983080208
+questionnaire$diag_psych_anx_1_m,Specific phobia,5092,215901,0.02358488381248813
+questionnaire$diag_psych_depr_1_m,Major Depressive Disorder,85471,227576,0.3755712377403593
+questionnaire$diag_psych_depr_1_m,None of the above,28589,227576,0.12562396737793088
+questionnaire$diag_psych_depr_1_m,Other (not listed),48907,227576,0.21490403205961964
+questionnaire$diag_psych_depr_1_m,Perinatal depression,4908,227576,0.02156642176679439
+questionnaire$diag_psych_depr_1_m,Postnatal depression,37805,227576,0.16612032903293844
+questionnaire$diag_psych_eat_1_m,Anorexia nervosa,9173,21358,0.4294877797546587
+questionnaire$diag_psych_eat_1_m,Atypical anorexia nervosa,1410,21358,0.06601741736117614
+questionnaire$diag_psych_eat_1_m,Binge eating disorder,6362,21358,0.2978743328026969
+questionnaire$diag_psych_eat_1_m,Bulimia nervosa,7482,21358,0.350313699784624
+questionnaire$diag_psych_eat_1_m,None of the above,315,21358,0.01474857196366701
+questionnaire$diag_psych_eat_1_m,Other (not listed),998,21358,0.046727221649967225
+questionnaire$diag_repro_1_m,Ductal Carcinoma in situ (DCIS),1026,102313,0.010028051176292357
+questionnaire$diag_repro_1_m,Endometriosis,25585,102313,0.25006597402089664
+questionnaire$diag_repro_1_m,Enlarged prostate,4165,102313,0.04070841437549481
+questionnaire$diag_repro_1_m,"Fibrocystic Breast, or another Benign Breast Disease (such as proliferative Benign Breast Disease or LCIS)",3476,102313,0.0339741772795246
+questionnaire$diag_repro_1_m,None of the above,25482,102313,0.24905925933165873
+questionnaire$diag_repro_1_m,Other (not listed),11167,102313,0.10914546538563037
+questionnaire$diag_repro_1_m,Polycystic Ovary Syndrome (PCOS),26707,102313,0.26103232238327484
+questionnaire$diag_resp_1_m,Asthma,132702,188414,0.7043107200101903
+questionnaire$diag_resp_1_m,Bronchiectasis,12170,188414,0.06459180315687794
+questionnaire$diag_resp_1_m,"Chronic Obstructive pulmonary disease, COPD (including emphysema and chronic bronchitis)",22164,188414,0.11763457067946119
+questionnaire$diag_resp_1_m,Hay Fever (Allergic to pollen or Allergic Rhinitis),73020,188414,0.38755081894126764
+questionnaire$diag_resp_1_m,Lung fibrosis,2050,188414,0.010880295519441231
+questionnaire$diag_resp_1_m,None of the above,6497,188414,0.03448257560478521
+questionnaire$diag_resp_1_m,Other (not listed),12328,188414,0.06543038203105926
+questionnaire$diag_urol_1_m,Chronic kidney disease (or chronic kidney failure),15635,105081,0.14878998106222818
+questionnaire$diag_urol_1_m,Kidney stones,27854,105081,0.26507170658825097
+questionnaire$diag_urol_1_m,None of the above,19255,105081,0.18323959612108753
+questionnaire$diag_urol_1_m,Other (not listed),20168,105081,0.19192813163178882
